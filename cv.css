@@ -1,0 +1,73 @@
+h1{ border: 2px solid black;
+  border-radius: 5px;
+  text-align: center;
+}
+
+img {
+    display: block;
+    margin: auto;
+  }
+
+h4{ 
+ text-decoration: underline black;
+
+}
+
+.p {
+    display: none;
+}
+
+.p {
+    display: block;
+}
+
+section{
+    border: solid 2px red;
+    margin: 5px;
+    padding: 5px;
+}
+
+#estilo_objetivos {
+  text-align: center;
+  border: solid 1px black;
+}
+
+#estilo_experiencia {
+  text-align: center;
+  border: solid 1px black;
+}
+
+#estilo_educacion {
+  text-align: center;
+  border: solid 1px black;
+}
+
+#estilo_conocimientos {
+  text-align: center;
+  border: solid 1px black;
+}
+
+#estilofoto {
+  border-radius: 100px;
+  border: solid black;
+}
+
+#boton {
+  border-radius: 30px;
+  background-color: coral;
+}
+
+#boton_ocultar {
+  border-radius: 30px;
+  background-color: coral;
+}
+
+body {
+  background-image: url("https://i.pinimg.com/originals/8c/fd/11/8cfd1139fe6408650955707dbde63b4d.jpg");
+  background-size: cover;
+}
+
+#mail {
+  font-family: 'Tilt Warp',cursive;
+  color: black;
+}
